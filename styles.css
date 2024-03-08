@@ -1,0 +1,130 @@
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+h1 {
+  color: hwb(0.25turn 0% 40% / 50%);
+  margin-top: 50px;
+  font-family: "Sacramento", cursive;
+  font-size: 80px;
+}
+
+h2 {
+color: #070F2B;
+   font-family: "Montserrat", sans-serif;
+}
+
+h3 {
+color: #070F2B;
+  font-family: "Montserrat", sans-serif;
+}
+
+.top-container {
+  background-color: #D7E4C0;
+  padding-top: 100px;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+
+  background-color: #D7E4C0;
+
+}
+
+.Dabbyds-Kitchen {
+  width: 100px;
+    width: 370px;
+    height: 500px;
+    }
+.profile {
+  margin: 100px 0;
+}
+
+
+
+.Our-Services {
+  width: 15%;
+
+  height: 11%;
+  display: inline-block;
+}
+
+.Our-Services2 {
+  width: 25%;
+
+    height: 20%;
+
+}
+
+.Our-Service3 {
+  width: 26%;
+
+  height: 20%;
+
+}
+p {
+  line-height: 2
+}
+
+
+.Our-Service0 {
+  width: 27%;
+
+  height: 20%;
+
+}
+
+.Our-Servce5 {
+  width: 270px;
+
+  height: 400px;
+}
+
+
+.Our-services-row {
+  text-align: left;
+  margin: 100px auto 100px auto;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 9;
+  -moz-border-radius: 9;
+  border-radius: 9px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #35444d;
+  background-image: -webkit-linear-gradient(top, #35444d, #3498db);
+  background-image: -moz-linear-gradient(top, #35444d, #3498db);
+  background-image: -ms-linear-gradient(top, #35444d, #3498db);
+  background-image: -o-linear-gradient(top, #35444d, #3498db);
+  background-image: linear-gradient(to bottom, #35444d, #3498db);
+  text-decoration: none;
+}
+
+.Wha {
+width: 30px;
+margin: auto;
+}
